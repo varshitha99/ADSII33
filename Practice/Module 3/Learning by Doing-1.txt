@@ -1,0 +1,2 @@
+If there are no parallel edges in an directed graph for V vertices the maximum number of edges is V(V-1)/2.
+If there are no parallel edges in an directed graph for V vertices the minimum number of edges is V-1
